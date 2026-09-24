@@ -24,9 +24,9 @@ Open the `.vbp` in Visual Basic 6.0 IDE:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/Isadmin`.
+Working copy from my Historical Dev folder `VB/Old/Isadmin`.
 Company names in project files: NRMA - Information Services Pty. Limited. Module by Elvio Serrao (`Elvio.Serrao@nrma.com.au`).
 
 ## License
 
-MIT (c) 2026 VaderConsulting for Dave Robinson's working copy where applicable. See `LICENSE`. Third-party sample portions remain under their original terms.
+MIT (c) 2026 VaderConsulting for my working copy where applicable. See `LICENSE`. Third-party sample portions remain under their original terms.
