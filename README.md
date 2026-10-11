@@ -29,4 +29,4 @@ Company names in project files: NRMA - Information Services Pty. Limited. Module
 
 ## License
 
-MIT (c) 2026 VaderConsulting for my working copy where applicable. See `LICENSE`. Third-party sample portions remain under their original terms.
+MIT (c) 2026 Vader Consulting for my working copy where applicable. See `LICENSE`. Third-party sample portions remain under their original terms.
